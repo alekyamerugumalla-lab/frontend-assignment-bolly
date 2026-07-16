@@ -1,3 +1,5 @@
+Live Demo:
+https://alekyamerugumalla-lab.github.io/frontend-assignment-bolly/
 # bolly — Frontend Development Assignment
 
 A recreation of the "Bolly" shampoo landing page with a genuine interactive
