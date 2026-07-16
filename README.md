@@ -58,11 +58,3 @@ alone can hold inline `<style>` and `<script>` tags too — just wrap the CSS
 in `<style>...</style>` and the JS in `<script>...</script>` inside the same
 widget instead of using Site Settings.
 
-## Before you submit
-
-- [ ] Push this folder to a public (or shared) GitHub repo
-- [ ] Record a 3–5 min screen recording: desktop scroll-through, then mobile
-      view, showing the bottle being rotated by drag on both
-- [ ] Upload the recording (Drive / Loom / unlisted YouTube) and **double
-      check view access is public/shared**, not just "anyone in my org"
-- [ ] Submit both links before **16 July 2026, 6:00 PM**
