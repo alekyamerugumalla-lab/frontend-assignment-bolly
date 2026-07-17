@@ -58,6 +58,7 @@ If your plan doesn't have Elementor Pro's Custom Code panel, the HTML widget
 alone can hold inline `<style>` and `<script>` tags too — just wrap the CSS
 in `<style>...</style>` and the JS in `<script>...</script>` inside the same
 widget instead of using Site Settings.
+
 Live Demo:
 https://alekyamerugumalla-lab.github.io/frontend-assignment-bolly/
 
